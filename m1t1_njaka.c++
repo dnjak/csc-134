@@ -8,5 +8,7 @@
 using namespace std;
 
 int main() {
-    return 0; // no erors
+    cout << "hello, csc 134!!!" << endl;
+    cout << endl;
+    return 0;
 }
